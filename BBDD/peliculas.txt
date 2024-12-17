@@ -1,0 +1,5 @@
+4568,Cenicienta,Animados,2:15,1998,+0,L,0
+8976,Terrifier 3,Terror,2:00,2024,+18,L,0
+1000,Son como ninos,Comedia,2:30,2012,+13,L,0
+1234,Interestelar,Ciencia Ficcion,2:00,2014,+13,A,96000906
+1245,Sustancia,Suspenso,1:55,2024,+15,A,96000906
